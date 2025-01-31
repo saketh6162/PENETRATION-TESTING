@@ -1,0 +1,6 @@
+{
+    "default_target": "127.0.0.1",
+    "scan_timeout": 30,
+    "report_format": "txt",
+    "use_proxy": false
+}
